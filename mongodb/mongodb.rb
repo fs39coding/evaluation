@@ -1,5 +1,6 @@
 require 'mongo'
 
+#test
 include Mongo
 # Initialize client 
 mongo_client = MongoClient.new("localhost", 27017)
